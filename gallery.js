@@ -1,4 +1,4 @@
-const SERVER = "http://localhost:8000/gallery/"
+const SERVER =  "https://jgmatu.github.io/X-Nav-5.7.18-HistoryAPI/gallery"
 
 function supports_history_api() {
         return !!(window.history && history.pushState);
